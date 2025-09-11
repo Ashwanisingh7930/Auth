@@ -1,28 +1,14 @@
 [
   {
-    "Username": "user1",
-    "Password": "pass123",
+    "Username": "user",
+    "Password": "123",
     "DateCreated": "2024-09-01",
     "DateExpiry": "2024-01-01",
     "HWID": ""
   },
   {
-    "Username": "admin",
-    "Password": "adminpass",
-    "DateCreated": "2025-09-05",
-    "DateExpiry": "2026-01-05",
-    "HWID": ""
-  },
-  {
-    "Username": "admin5287ctg",
-    "Password": "p;RYj@1}1Dfc",
-    "DateCreated": "2025-09-10",
-    "DateExpiry": "2026-02-10",
-    "HWID": ""
-  },
-  {
-    "Username": "user0v22hmn",
-    "Password": "I!@&1vT,)cAM",
+    "Username": "test",
+    "Password": "test",
     "DateCreated": "2025-09-11",
     "DateExpiry": "2025-09-30",
     "HWID": ""
