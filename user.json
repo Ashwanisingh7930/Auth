@@ -1,194 +1,30 @@
 [
   {
     "Username": "user1",
-    "Password": "pass123"
+    "Password": "pass123",
+    "DateCreated": "2025-09-01",
+    "DateExpiry": "2025-12-01",
+    "HWID": ""
   },
   {
     "Username": "admin",
-    "Password": "adminpass"
+    "Password": "adminpass",
+    "DateCreated": "2025-09-05",
+    "DateExpiry": "2026-01-05",
+    "HWID": ""
   },
   {
     "Username": "admin5287ctg",
-    "Password": "p;RYj@1}1Dfc"
-  },
-  {
-    "Username": "user4800nrk",
-    "Password": "?xXP7U=MKS!G"
-  },
-  {
-    "Username": "dev3698jsx",
-    "Password": "[[^0.ngPS1d{"
-  },
-  {
-    "Username": "userhi87rhl",
-    "Password": "e1DT,oaN*7kI"
-  },
-  {
-    "Username": "userz66ejxw",
-    "Password": "7_5.)Uoo}mF]"
-  },
-  {
-    "Username": "useren5vc6h",
-    "Password": "DH.=]ExMa#6:"
-  },
-  {
-    "Username": "usero63ygzj",
-    "Password": "aLj{E5@jfn;y"
-  },
-  {
-    "Username": "userv0o8kwr",
-    "Password": "Fzy)PSJ]b3o["
-  },
-  {
-    "Username": "userwl5zw8e",
-    "Password": "^?vnOSuUO|6z"
-  },
-  {
-    "Username": "userm0u2y9t",
-    "Password": "Zvn+z0WJr1Uw"
-  },
-  {
-    "Username": "userj0haoz3",
-    "Password": "eL&1]VETjC!2"
-  },
-  {
-    "Username": "usero62esx9",
-    "Password": ",nCS6v}pbb!9"
-  },
-  {
-    "Username": "userfop11mj",
-    "Password": "*7e7;JYu%NMM"
-  },
-  {
-    "Username": "usersb3fz11",
-    "Password": "u%28w6tUDZnj"
-  },
-  {
-    "Username": "usertujnb7g",
-    "Password": "W.2}9jIevQnw"
-  },
-  {
-    "Username": "usertwinhn8",
-    "Password": "p?R14NV]-%og"
-  },
-  {
-    "Username": "useryukrljf",
-    "Password": "CT#,%H@7y.5%"
-  },
-  {
-    "Username": "usery7kwk4s",
-    "Password": "6bQc06)hdD9b"
-  },
-  {
-    "Username": "user7i9wtiu",
-    "Password": "h^36lYZ8@_!l"
-  },
-  {
-    "Username": "user5mc7iwr",
-    "Password": "KdR5y(!fk(?;"
-  },
-  {
-    "Username": "user601ocn9",
-    "Password": "U(yp*VP4VYx="
-  },
-  {
-    "Username": "user2s3j8j8",
-    "Password": "M-NDo1u|Lw=F"
-  },
-  {
-    "Username": "user8ejec4n",
-    "Password": "4{!4njejU*5R"
-  },
-  {
-    "Username": "userkoprzt2",
-    "Password": "_glNm8cP$I$["
-  },
-  {
-    "Username": "userv23dkkd",
-    "Password": "fR(Pl1IU[0z8"
-  },
-  {
-    "Username": "useraa1u2kc",
-    "Password": "V)x2hK3keJ1o"
-  },
-  {
-    "Username": "usertu9jhae",
-    "Password": "(6Luew6E$z;N"
-  },
-  {
-    "Username": "user7r444xk",
-    "Password": "n=]sGH}W4j{s"
-  },
-  {
-    "Username": "user5n5smtc",
-    "Password": "Li17Fb9T3H&y"
-  },
-  {
-    "Username": "uservjzkjdz",
-    "Password": "DMPN@ih*j8HZ"
-  },
-  {
-    "Username": "usery5suo65",
-    "Password": "o^rAmV85;%t-"
-  },
-  {
-    "Username": "user0klleap",
-    "Password": "SIVsyG@IC{M5"
-  },
-  {
-    "Username": "user8fml63e",
-    "Password": ")s@Y=2u1$V$D"
-  },
-  {
-    "Username": "usertiyla47",
-    "Password": "cDu;2LyPhMP)"
-  },
-  {
-    "Username": "ashwanisinghcfo3fk3",
-    "Password": "123456"
-  },
-  {
-    "Username": "asassg7d5nlr",
-    "Password": "121212"
-  },
-  {
-    "Username": "userfqvky52",
-    "Password": ")0of[a=[UiqC"
-  },
-  {
-    "Username": "user6ln7tev",
-    "Password": "h$1ETw%6hcQp"
-  },
-  {
-    "Username": "FREE",
-    "Password": "IFX SHADOW ON TOP"
-  },
-  {
-    "Username": "usersk3j2sb",
-    "Password": "W1QEX,ci&,xl"
-  },
-  {
-    "Username": "userd06rafd",
-    "Password": "nO0IT!4FDg=2"
-  },
-  {
-    "Username": "testuser1xu7iki",
-    "Password": "123456"
-  },
-  {
-    "Username": "testuser",
-    "Password": "123456"
-  },
-  {
-    "Username": "testuser1",
-    "Password": "1234566"
-  },
-  {
-    "Username": "user5yic51x",
-    "Password": "K{W34Gk*Xr]h"
+    "Password": "p;RYj@1}1Dfc",
+    "DateCreated": "2025-09-10",
+    "DateExpiry": "2026-02-10",
+    "HWID": ""
   },
   {
     "Username": "user0v22hmn",
-    "Password": "I!@&1vT,)cAM"
+    "Password": "I!@&1vT,)cAM",
+    "DateCreated": "2025-09-11",
+    "DateExpiry": "2025-09-30",
+    "HWID": ""
   }
 ]
