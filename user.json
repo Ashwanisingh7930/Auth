@@ -4,13 +4,11 @@
     "Password": "123",
     "DateCreated": "2024-09-01",
     "DateExpiry": "2026-01-01",
-    "HWID": ""
   },
   {
     "Username": "test",
     "Password": "test",
     "DateCreated": "2025-09-11",
     "DateExpiry": "2025-09-30",
-    "HWID": ""
   }
 ]
