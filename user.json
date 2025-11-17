@@ -1,12 +1,6 @@
 [
   {
     "Username": "Ankit",
-    "Password": "123456",
-    "DateCreated": "2025-09-24",
-    "DateExpiry": "2025-10-24"
-  },
-  {
-    "Username": "Ankit",
     "Password": "1",
     "DateCreated": "2025-10-12",
     "DateExpiry": "2025-10-29"
