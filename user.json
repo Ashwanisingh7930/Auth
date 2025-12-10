@@ -23,6 +23,7 @@
     "Username": "test123",
     "Password": "123456",
     "DateCreated": "2025-12-10",
-    "DateExpiry": "2026-01-09"
+    "DateExpiry": "2026-01-09",
+    "HWID": "4C6784CA2A724CD495B8FB1E89FEB36887168BC40EC2B76D6E1FA169D45C2064"
   }
 ]
